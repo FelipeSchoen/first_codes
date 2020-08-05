@@ -1,2 +1,4 @@
-# first_codes
-Nesta area incluo meus primeiros códigos.
+Ola!!!
+
+Me chamo Felipe Schoen,
+
